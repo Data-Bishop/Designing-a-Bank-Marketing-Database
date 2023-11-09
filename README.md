@@ -1,7 +1,7 @@
 # Piggy Bank: Bank Marketing Database Project
 Author: Abasifreke Nkanang (DataBishop)
 
-[erd](<iframe width="560" height="315" src='https://dbdiagram.io/e/654d5d057d8bbd6465e2494a/654d5d137d8bbd6465e24a2a'> </iframe>)
+<iframe width="560" height="315" src='https://dbdiagram.io/e/654d5d057d8bbd6465e2494a/654d5d137d8bbd6465e24a2a'> </iframe>
 
 ## Introduction
 
