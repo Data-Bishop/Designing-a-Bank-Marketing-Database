@@ -1,6 +1,8 @@
 # Piggy Bank: Bank Marketing Database Project
 Author: Abasifreke Nkanang (DataBishop)
 
+[erd](<iframe width="560" height="315" src='https://dbdiagram.io/e/654d5d057d8bbd6465e2494a/654d5d137d8bbd6465e24a2a'> </iframe>)
+
 ## Introduction
 
 Personal loans are a significant revenue source for banks, with interest rates often hovering around 10%. To harness the potential of this financial opportunity, you've been entrusted with the task of working alongside a bank to clean and store data collected during a recent marketing campaign aimed at persuading customers to take out personal loans. The bank's future marketing campaigns will also rely on this stored data. Thus, your mission is to set up a PostgreSQL database and design a schema that allows for the easy import of data from upcoming campaigns.
