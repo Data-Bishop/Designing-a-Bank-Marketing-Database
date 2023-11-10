@@ -1,5 +1,6 @@
 # Piggy Bank: Bank Marketing Database Project
-Author: Abasifreke Nkanang (DataBishop)
+#### Author: Abasifreke Nkanang (DataBishop)
+#### Tools/Languages used - Python, POSTGRESQL, Pandas, Numpy
 
 ![ERD](ERD.png)
 
